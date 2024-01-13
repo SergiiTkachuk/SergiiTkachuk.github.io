@@ -196,7 +196,7 @@ body {
 }
 .group {
   clear: both;
-  *zoom: 1;
+  zoom: 1;
 }
 
 /*
@@ -579,5 +579,5 @@ table h4 {
 }
 
 .container img {
-  margin-left: 100px;
+  margin-left: 90px;
 }
